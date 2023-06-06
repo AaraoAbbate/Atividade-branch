@@ -1,0 +1,4 @@
+Uma tela de login deve ter:
+Email
+senha
+cpf
